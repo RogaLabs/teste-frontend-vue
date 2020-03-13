@@ -32,7 +32,9 @@ Irá ser avaliado:
 
 Quanto ao design, você deverá seguir essas imagens.
 
-![alt text](/example.png)
+![alt text](/listagem.jpg)
+
+![alt text](/cadastrar.jpg)
 
 # Dúvidas
 
