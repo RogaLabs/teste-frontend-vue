@@ -1,6 +1,6 @@
 # Teste desenvolvedor Frontend.
 
-Utilizando Vue.js e Vuex, construa a listagem de usuários de um sistema.
+Utilizando Vue.js, construa a listagem de usuários de um sistema.
 
 ## Considerações:
 
